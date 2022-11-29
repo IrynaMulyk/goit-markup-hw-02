@@ -17,6 +17,7 @@ ul { list-style: none; }
 }
 .logo {
     color: var(--primColor4);
+    font-family: 'Raleway';
     font-weight: 800;
     font-size: 18px;
     line-height: 1.33;
@@ -42,6 +43,8 @@ ul { list-style: none; }
 .contact-way {
     color: var(--primColor1);
     text-decoration: none;
+    font-weight: 400;
+
 }
 .contact-way:hover,
 .contact-way:focus {
@@ -76,6 +79,7 @@ ul { list-style: none; }
     font-size: 16px;
     line-height: 1.5; 
     letter-spacing: 0.02em;
+    font-weight: 400;
 }
 .title-two {
     color: var(--primColor2);
@@ -115,6 +119,7 @@ ul { list-style: none; }
     line-height: 1.5;
     text-align: center;
     letter-spacing: 0.02em;
+    font-weight: 400;
     }
 .footer-logo {
     color: var(--primColor4);
@@ -142,6 +147,7 @@ ul { list-style: none; }
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    font-weight: 400;
 }
 
 /* portfolio styles  */
@@ -174,4 +180,5 @@ ul { list-style: none; }
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    font-weight: 400;
 }
