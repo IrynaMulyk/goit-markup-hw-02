@@ -31,9 +31,13 @@ ul { list-style: none; }
 .nav-tab {
     color: var(--primColor2);
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
+}
+.nav-tab:hover,
+.nav-tab:focus {
+    color: var(--primColor4);
 }
 .contact-way {
     color: var(--primColor1);
@@ -48,14 +52,14 @@ ul { list-style: none; }
 }
 .order-title {
     color: var(--primColor3);
-    font-weight: 600;
+    font-weight: 500;
     font-size: 56px;
     line-height: 1.07;
 }
 .order-button { 
     background: var(--primColor4);
     color: var(--primColor3);
-    font-weight: 600;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.19;
     letter-spacing: 0.04em; 
@@ -63,7 +67,7 @@ ul { list-style: none; }
 }
 .qualities-title {
     color: var(--primColor2);
-    font-weight: 600;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -75,7 +79,7 @@ ul { list-style: none; }
 }
 .title-two {
     color: var(--primColor2);
-    font-weight: 600;
+    font-weight: 500;
     font-size: 36px;
     line-height: 1.11;
     text-align: center; 
@@ -87,7 +91,7 @@ ul { list-style: none; }
 }
 .title-team {
     color: var(--primColor2);
-    font-weight: 600;
+    font-weight: 500;
     font-size: 36px;
     line-height: 1.11;
     text-align: center; 
@@ -99,7 +103,7 @@ ul { list-style: none; }
 }
 .name {
     color: var(--primColor2);
-    font-weight: 600;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     text-align: center;
@@ -144,7 +148,7 @@ ul { list-style: none; }
 
 .filter-button {
     color: var(--primColor4);
-    font-weight: 600;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     text-align: center;
@@ -160,7 +164,7 @@ ul { list-style: none; }
 }
 .portfolio-title {
     color: var(--primColor2);
-    font-weight: 600;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
