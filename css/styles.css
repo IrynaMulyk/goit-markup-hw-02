@@ -122,6 +122,7 @@ ul { list-style: none; }
     font-weight: 400;
     }
 .footer-logo {
+    font-family: 'Raleway';
     color: var(--primColor4);
     font-weight: 800;
     font-size: 18px;
